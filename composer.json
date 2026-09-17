@@ -1,0 +1,16 @@
+{
+  "name": "tikhomirov/wp-wc-stop-spam-register-plugin",
+  "description": "WooCommerce anti-spam protection for user registration forms.",
+  "type": "wordpress-plugin",
+  "minimum-stability": "stable",
+  "license": "GPL-2.0-or-later",
+  "authors": [
+    {
+      "name": "Aleksei Tikhomirov",
+      "email": "alex@rwsite.ru"
+    }
+  ],
+  "require": {
+    "php": "^7.4"
+  }
+}

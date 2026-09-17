@@ -3,8 +3,8 @@
  * Plugin Name: WooCommerce stop spam user registrations.
  * Plugin URI: https://rwsite.ru/
  * Description: WooCommerce stop spam user registrations. Needed jQuery.
- * Version: 1.0
- * Author: AlexT
+ * Version: 1.0.0
+ * Author: Aleksey Tikhomirov
  * Author URI: https://rwsite.ru/
  */
 
